@@ -1,5 +1,4 @@
-# QiskitHackathonTW2022_Quantum_mapper
-Qiskit Hackathon Taiwan 2022 - Group 4 - Quantum Mapper
+# Qiskit Hackathon Taiwan 2022 - Group 4 - Quantum Mapper
 
 ## Where is the exportation script of our data?
   - Due to we have no enough time to make our code better and easily to use, so functions collect in following 2 `ipynb` files.
