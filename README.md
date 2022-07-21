@@ -7,7 +7,7 @@
     
   - Other files are used for reference, testing our codes, or making dummy data to make sure our experiment fine, so some files are the sample files from tutorial in Qiskit, some of them are our group members' previous works.
   
-  - We used a submodule `mori` for data exportation and a python files `backend.py` to access importing backends, all  made by `@harui2019` (the actually owner of this repo), one of group member.
+  - We used a submodule [`mori`](https://github.com/harui2019/mori/tree/4bc94be2d448f2145e66b583c808fbbde0876ff1) for data exportation and a python files `backend.py` to access importing backends, all  made by `@harui2019` (the actually owner of this repo), one of group member.
   
 ## Where is experiments data?
   The folloeing folders are our data.
