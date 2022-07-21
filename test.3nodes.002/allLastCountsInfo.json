@@ -1,0 +1,318 @@
+{
+  "noTags": [],
+  "('catol=0.0002', 'depth=0')": [
+    {
+      "allShots": 65536,
+      "available": 790,
+      "ratio": 0.012054443359375
+    }
+  ],
+  "('catol=0.0002', 'depth=1')": [
+    {
+      "allShots": 65536,
+      "available": 1305,
+      "ratio": 0.0199127197265625
+    }
+  ],
+  "('catol=0.0002', 'depth=2')": [
+    {
+      "allShots": 65536,
+      "available": 1723,
+      "ratio": 0.0262908935546875
+    }
+  ],
+  "('catol=0.0002', 'depth=3')": [
+    {
+      "allShots": 65536,
+      "available": 1285,
+      "ratio": 0.0196075439453125
+    }
+  ],
+  "('catol=0.0002', 'depth=4')": [
+    {
+      "allShots": 65536,
+      "available": 8014,
+      "ratio": 0.122283935546875
+    }
+  ],
+  "('catol=0.0002', 'depth=5')": [
+    {
+      "allShots": 65536,
+      "available": 507,
+      "ratio": 0.0077362060546875
+    }
+  ],
+  "('catol=0.0002', 'depth=6')": [
+    {
+      "allShots": 65536,
+      "available": 1462,
+      "ratio": 0.022308349609375
+    }
+  ],
+  "('catol=0.0002', 'depth=7')": [
+    {
+      "allShots": 65536,
+      "available": 534,
+      "ratio": 0.008148193359375
+    }
+  ],
+  "('catol=0.0002', 'depth=8')": [
+    {
+      "allShots": 65536,
+      "available": 2927,
+      "ratio": 0.0446624755859375
+    }
+  ],
+  "('catol=0.002', 'depth=0')": [
+    {
+      "allShots": 65536,
+      "available": 799,
+      "ratio": 0.0121917724609375
+    }
+  ],
+  "('catol=0.002', 'depth=1')": [
+    {
+      "allShots": 65536,
+      "available": 592,
+      "ratio": 0.009033203125
+    }
+  ],
+  "('catol=0.002', 'depth=2')": [
+    {
+      "allShots": 65536,
+      "available": 673,
+      "ratio": 0.0102691650390625
+    }
+  ],
+  "('catol=0.002', 'depth=3')": [
+    {
+      "allShots": 65536,
+      "available": 1451,
+      "ratio": 0.0221405029296875
+    }
+  ],
+  "('catol=0.002', 'depth=4')": [
+    {
+      "allShots": 65536,
+      "available": 194,
+      "ratio": 0.002960205078125
+    }
+  ],
+  "('catol=0.002', 'depth=5')": [
+    {
+      "allShots": 65536,
+      "available": 942,
+      "ratio": 0.014373779296875
+    }
+  ],
+  "('catol=0.002', 'depth=6')": [
+    {
+      "allShots": 65536,
+      "available": 9129,
+      "ratio": 0.1392974853515625
+    }
+  ],
+  "('catol=0.002', 'depth=7')": [
+    {
+      "allShots": 65536,
+      "available": 2954,
+      "ratio": 0.045074462890625
+    }
+  ],
+  "('catol=0.002', 'depth=8')": [
+    {
+      "allShots": 65536,
+      "available": 7195,
+      "ratio": 0.1097869873046875
+    }
+  ],
+  "('catol=0.02', 'depth=0')": [
+    {
+      "allShots": 65536,
+      "available": 795,
+      "ratio": 0.0121307373046875
+    }
+  ],
+  "('catol=0.02', 'depth=1')": [
+    {
+      "allShots": 65536,
+      "available": 1827,
+      "ratio": 0.0278778076171875
+    }
+  ],
+  "('catol=0.02', 'depth=2')": [
+    {
+      "allShots": 65536,
+      "available": 6950,
+      "ratio": 0.106048583984375
+    }
+  ],
+  "('catol=0.02', 'depth=3')": [
+    {
+      "allShots": 65536,
+      "available": 508,
+      "ratio": 0.00775146484375
+    }
+  ],
+  "('catol=0.02', 'depth=4')": [
+    {
+      "allShots": 65536,
+      "available": 4079,
+      "ratio": 0.0622406005859375
+    }
+  ],
+  "('catol=0.02', 'depth=5')": [
+    {
+      "allShots": 65536,
+      "available": 55,
+      "ratio": 0.0008392333984375
+    }
+  ],
+  "('catol=0.02', 'depth=6')": [
+    {
+      "allShots": 65536,
+      "available": 5334,
+      "ratio": 0.081390380859375
+    }
+  ],
+  "('catol=0.02', 'depth=7')": [
+    {
+      "allShots": 65536,
+      "available": 2549,
+      "ratio": 0.0388946533203125
+    }
+  ],
+  "('catol=0.02', 'depth=8')": [
+    {
+      "allShots": 65536,
+      "available": 24,
+      "ratio": 0.0003662109375
+    }
+  ],
+  "('catol=0.2', 'depth=0')": [
+    {
+      "allShots": 65536,
+      "available": 718,
+      "ratio": 0.010955810546875
+    }
+  ],
+  "('catol=0.2', 'depth=1')": [
+    {
+      "allShots": 65536,
+      "available": 1055,
+      "ratio": 0.0160980224609375
+    }
+  ],
+  "('catol=0.2', 'depth=2')": [
+    {
+      "allShots": 65536,
+      "available": 1599,
+      "ratio": 0.0243988037109375
+    }
+  ],
+  "('catol=0.2', 'depth=3')": [
+    {
+      "allShots": 65536,
+      "available": 1320,
+      "ratio": 0.0201416015625
+    }
+  ],
+  "('catol=0.2', 'depth=4')": [
+    {
+      "allShots": 65536,
+      "available": 2838,
+      "ratio": 0.043304443359375
+    }
+  ],
+  "('catol=0.2', 'depth=5')": [
+    {
+      "allShots": 65536,
+      "available": 749,
+      "ratio": 0.0114288330078125
+    }
+  ],
+  "('catol=0.2', 'depth=6')": [
+    {
+      "allShots": 65536,
+      "available": 9189,
+      "ratio": 0.1402130126953125
+    }
+  ],
+  "('catol=0.2', 'depth=7')": [
+    {
+      "allShots": 65536,
+      "available": 186,
+      "ratio": 0.002838134765625
+    }
+  ],
+  "('catol=0.2', 'depth=8')": [
+    {
+      "allShots": 65536,
+      "available": 106,
+      "ratio": 0.001617431640625
+    }
+  ],
+  "('catol=2', 'depth=0')": [
+    {
+      "allShots": 65536,
+      "available": 802,
+      "ratio": 0.012237548828125
+    }
+  ],
+  "('catol=2', 'depth=1')": [
+    {
+      "allShots": 65536,
+      "available": 3808,
+      "ratio": 0.05810546875
+    }
+  ],
+  "('catol=2', 'depth=2')": [
+    {
+      "allShots": 65536,
+      "available": 1098,
+      "ratio": 0.016754150390625
+    }
+  ],
+  "('catol=2', 'depth=3')": [
+    {
+      "allShots": 65536,
+      "available": 7,
+      "ratio": 0.0001068115234375
+    }
+  ],
+  "('catol=2', 'depth=4')": [
+    {
+      "allShots": 65536,
+      "available": 764,
+      "ratio": 0.01165771484375
+    }
+  ],
+  "('catol=2', 'depth=5')": [
+    {
+      "allShots": 65536,
+      "available": 237,
+      "ratio": 0.0036163330078125
+    }
+  ],
+  "('catol=2', 'depth=6')": [
+    {
+      "allShots": 65536,
+      "available": 337,
+      "ratio": 0.0051422119140625
+    }
+  ],
+  "('catol=2', 'depth=7')": [
+    {
+      "allShots": 65536,
+      "available": 2797,
+      "ratio": 0.0426788330078125
+    }
+  ],
+  "('catol=2', 'depth=8')": [
+    {
+      "allShots": 65536,
+      "available": 104,
+      "ratio": 0.0015869140625
+    }
+  ]
+}

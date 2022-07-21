@@ -1,0 +1,498 @@
+{
+  "noTags": [],
+  "('catol=0.0002', 'depth=0')": [
+    {
+      "x": "[]",
+      "status": 1,
+      "success": "True",
+      "message": "Optimization terminated successfully.",
+      "nfev": 1,
+      "fun": 50.98403490421249,
+      "maxcv": 0.0
+    }
+  ],
+  "('catol=0.0002', 'depth=1')": [
+    {
+      "x": "[10.14827681  1.57821944]",
+      "status": 1,
+      "success": "True",
+      "message": "Optimization terminated successfully.",
+      "nfev": 29,
+      "fun": -13666.218112364546,
+      "maxcv": 0.0
+    }
+  ],
+  "('catol=0.0002', 'depth=2')": [
+    {
+      "x": "[8.20235603 3.13618477 8.1182351  3.22185631]",
+      "status": 1,
+      "success": "True",
+      "message": "Optimization terminated successfully.",
+      "nfev": 51,
+      "fun": 4997.941602387735,
+      "maxcv": 0.0
+    }
+  ],
+  "('catol=0.0002', 'depth=3')": [
+    {
+      "x": "[3.20538311 8.03931247 3.04284167 6.91749349 3.20721695 3.07848343]",
+      "status": 1,
+      "success": "True",
+      "message": "Optimization terminated successfully.",
+      "nfev": 62,
+      "fun": 4258.844091143701,
+      "maxcv": 0.0
+    }
+  ],
+  "('catol=0.0002', 'depth=4')": [
+    {
+      "x": "[3.19013743 8.13251113 8.07306066 3.15959791 8.10747541 3.09781369\n 3.15414366 8.16795766]",
+      "status": 1,
+      "success": "True",
+      "message": "Optimization terminated successfully.",
+      "nfev": 85,
+      "fun": 4316.193291170714,
+      "maxcv": 0.0
+    }
+  ],
+  "('catol=0.0002', 'depth=5')": [
+    {
+      "x": "[3.18996194 3.13232939 3.07314889 3.15940342 3.10752014 3.09767063\n 3.15423982 3.16793804 8.11903845 8.12888972]",
+      "status": 1,
+      "success": "True",
+      "message": "Optimization terminated successfully.",
+      "nfev": 92,
+      "fun": -7865.254115640869,
+      "maxcv": 0.0
+    }
+  ],
+  "('catol=0.0002', 'depth=6')": [
+    {
+      "x": "[8.19002314 8.71881224 3.07230713 3.15885858 3.10960537 3.31298937\n 3.15591596 3.16765542 3.11905504 3.12683417 3.12217643 3.14496111]",
+      "status": 1,
+      "success": "True",
+      "message": "Optimization terminated successfully.",
+      "nfev": 126,
+      "fun": -12388.874714864369,
+      "maxcv": 0.0
+    }
+  ],
+  "('catol=0.0002', 'depth=7')": [
+    {
+      "x": "[3.19004083 3.13228272 3.07307529 3.15946363 3.10751179 8.70550347\n 3.29975311 3.16791305 3.11900268 3.1289512  3.12280603 3.14723605\n 3.11469954 3.17615993]",
+      "status": 1,
+      "success": "True",
+      "message": "Optimization terminated successfully.",
+      "nfev": 124,
+      "fun": 6497.375324410482,
+      "maxcv": 0.0
+    }
+  ],
+  "('catol=0.0002', 'depth=8')": [
+    {
+      "x": "[8.16605234 8.07590536 3.0724249  8.14207746 8.19604528 3.14456654\n 3.21159803 3.1579287  3.13864727 3.08134694 3.17389924 3.12978361\n 3.15129042 3.19297049 3.18014955 3.13692336]",
+      "status": 1,
+      "success": "True",
+      "message": "Optimization terminated successfully.",
+      "nfev": 152,
+      "fun": -13870.25741320088,
+      "maxcv": 0.0
+    }
+  ],
+  "('catol=0.002', 'depth=0')": [
+    {
+      "x": "[]",
+      "status": 1,
+      "success": "True",
+      "message": "Optimization terminated successfully.",
+      "nfev": 1,
+      "fun": 268.2790546266131,
+      "maxcv": 0.0
+    }
+  ],
+  "('catol=0.002', 'depth=1')": [
+    {
+      "x": "[8.21365944 3.10137062]",
+      "status": 1,
+      "success": "True",
+      "message": "Optimization terminated successfully.",
+      "nfev": 31,
+      "fun": 2004.7612693276278,
+      "maxcv": 0.0
+    }
+  ],
+  "('catol=0.002', 'depth=2')": [
+    {
+      "x": "[8.18895317 3.13212701 8.07309535 2.53438372]",
+      "status": 1,
+      "success": "True",
+      "message": "Optimization terminated successfully.",
+      "nfev": 47,
+      "fun": 4233.382950513025,
+      "maxcv": 0.0
+    }
+  ],
+  "('catol=0.002', 'depth=3')": [
+    {
+      "x": "[3.1644863  8.10193875 3.20663221 8.181919   3.09872668 2.45394857]",
+      "status": 1,
+      "success": "True",
+      "message": "Optimization terminated successfully.",
+      "nfev": 70,
+      "fun": -1353.4219252141875,
+      "maxcv": 0.0
+    }
+  ],
+  "('catol=0.002', 'depth=4')": [
+    {
+      "x": "[3.19610058 8.15783536 8.09532274 5.61735568 8.22421761 2.81617052\n 2.81539099 8.17895402]",
+      "status": 1,
+      "success": "True",
+      "message": "Optimization terminated successfully.",
+      "nfev": 83,
+      "fun": -4667.869929742615,
+      "maxcv": 0.0
+    }
+  ],
+  "('catol=0.002', 'depth=5')": [
+    {
+      "x": "[3.18996119 3.13230263 3.07309842 3.159378   3.10761582 3.09760302\n 3.15424937 3.1679567  8.11899509 8.12888582]",
+      "status": 1,
+      "success": "True",
+      "message": "Optimization terminated successfully.",
+      "nfev": 95,
+      "fun": -6609.526959315408,
+      "maxcv": 0.0
+    }
+  ],
+  "('catol=0.002', 'depth=6')": [
+    {
+      "x": "[8.20867054 8.10477211 3.04000781 3.16079222 3.13742295 3.14093668\n 3.14369217 3.17102169 8.10898918 8.17256938 3.12189786 2.52811715]",
+      "status": 1,
+      "success": "True",
+      "message": "Optimization terminated successfully.",
+      "nfev": 128,
+      "fun": -8866.441676732005,
+      "maxcv": 0.0
+    }
+  ],
+  "('catol=0.002', 'depth=7')": [
+    {
+      "x": "[3.26032327 3.13370098 3.17683768 3.16010795 3.12503164 8.08933641\n 3.1386397  2.96544592 3.1185936  3.13836283 3.32950217 3.17715561\n 3.16832639 8.16809506]",
+      "status": 1,
+      "success": "True",
+      "message": "Optimization terminated successfully.",
+      "nfev": 143,
+      "fun": -9803.126274165272,
+      "maxcv": 0.0
+    }
+  ],
+  "('catol=0.002', 'depth=8')": [
+    {
+      "x": "[8.22232364 8.02832457 2.9644304  8.06704206 8.15963534 3.03907491\n 3.21448896 3.28975246 3.17673456 3.11574151 3.1581446  3.1645541\n 3.17488413 3.19115991 3.19222713 3.13204323]",
+      "status": 1,
+      "success": "True",
+      "message": "Optimization terminated successfully.",
+      "nfev": 152,
+      "fun": -4960.297981209426,
+      "maxcv": 0.0
+    }
+  ],
+  "('catol=0.02', 'depth=0')": [
+    {
+      "x": "[]",
+      "status": 1,
+      "success": "True",
+      "message": "Optimization terminated successfully.",
+      "nfev": 1,
+      "fun": -121.37415824872951,
+      "maxcv": 0.0
+    }
+  ],
+  "('catol=0.02', 'depth=1')": [
+    {
+      "x": "[8.20045641 3.13270278]",
+      "status": 1,
+      "success": "True",
+      "message": "Optimization terminated successfully.",
+      "nfev": 32,
+      "fun": 9543.30916904439,
+      "maxcv": 0.0
+    }
+  ],
+  "('catol=0.02', 'depth=2')": [
+    {
+      "x": "[8.23752294 3.05873289 8.06828551 3.1488488 ]",
+      "status": 1,
+      "success": "True",
+      "message": "Optimization terminated successfully.",
+      "nfev": 49,
+      "fun": 6265.945283263539,
+      "maxcv": 0.0
+    }
+  ],
+  "('catol=0.02', 'depth=3')": [
+    {
+      "x": "[3.19278842 8.13052333 3.07989791 8.15154977 3.12171538 3.10545556]",
+      "status": 1,
+      "success": "True",
+      "message": "Optimization terminated successfully.",
+      "nfev": 63,
+      "fun": 1376.9608401542328,
+      "maxcv": 0.0
+    }
+  ],
+  "('catol=0.02', 'depth=4')": [
+    {
+      "x": "[3.26747567 9.37391669 8.00945084 3.330433   8.09131953 3.35725978\n 3.20373642 7.96862331]",
+      "status": 1,
+      "success": "True",
+      "message": "Optimization terminated successfully.",
+      "nfev": 90,
+      "fun": -4931.977249319747,
+      "maxcv": 0.0
+    }
+  ],
+  "('catol=0.02', 'depth=5')": [
+    {
+      "x": "[3.19015226 3.13228874 3.07311038 3.15946527 3.10758262 3.09760969\n 3.15419555 3.16790329 8.11897297 8.12896815]",
+      "status": 1,
+      "success": "True",
+      "message": "Optimization terminated successfully.",
+      "nfev": 101,
+      "fun": -2562.3341710156774,
+      "maxcv": 0.0
+    }
+  ],
+  "('catol=0.02', 'depth=6')": [
+    {
+      "x": "[8.24825113 8.84930597 3.23982978 2.95901347 3.05754738 3.38326097\n 3.0789835  3.22110222 3.19862028 3.21922549 3.05894641 3.29843875]",
+      "status": 1,
+      "success": "True",
+      "message": "Optimization terminated successfully.",
+      "nfev": 127,
+      "fun": 13656.150546107649,
+      "maxcv": 0.0
+    }
+  ],
+  "('catol=0.02', 'depth=7')": [
+    {
+      "x": "[3.19008008 3.13226675 3.07322675 3.15940592 3.10750674 8.70552368\n 3.30027479 3.16802406 3.11910298 3.12891704 3.12273    3.1473325\n 3.11456554 3.1762269 ]",
+      "status": 1,
+      "success": "True",
+      "message": "Optimization terminated successfully.",
+      "nfev": 137,
+      "fun": -24649.05865377271,
+      "maxcv": 0.0
+    }
+  ],
+  "('catol=0.02', 'depth=8')": [
+    {
+      "x": "[8.11178626 8.10751737 3.1251567  8.11495911 8.16830488 3.16146469\n 3.12969739 3.07367608 3.15080602 3.10164295 3.15228621 3.1508095\n 3.14470294 3.18037676 2.55199166 3.13386883]",
+      "status": 1,
+      "success": "True",
+      "message": "Optimization terminated successfully.",
+      "nfev": 152,
+      "fun": 4878.5417069427895,
+      "maxcv": 0.0
+    }
+  ],
+  "('catol=0.2', 'depth=0')": [
+    {
+      "x": "[]",
+      "status": 1,
+      "success": "True",
+      "message": "Optimization terminated successfully.",
+      "nfev": 1,
+      "fun": -64.50415307387027,
+      "maxcv": 0.0
+    }
+  ],
+  "('catol=0.2', 'depth=1')": [
+    {
+      "x": "[8.18601839 3.12390951]",
+      "status": 1,
+      "success": "True",
+      "message": "Optimization terminated successfully.",
+      "nfev": 33,
+      "fun": 1632.685136509688,
+      "maxcv": 0.0
+    }
+  ],
+  "('catol=0.2', 'depth=2')": [
+    {
+      "x": "[8.19509559 3.12714919 8.07065691 3.15337966]",
+      "status": 1,
+      "success": "True",
+      "message": "Optimization terminated successfully.",
+      "nfev": 47,
+      "fun": -486.00952956729213,
+      "maxcv": 0.0
+    }
+  ],
+  "('catol=0.2', 'depth=3')": [
+    {
+      "x": "[3.1139293  8.34333147 3.2970739  8.1167464  3.10008737 2.32281194]",
+      "status": 1,
+      "success": "True",
+      "message": "Optimization terminated successfully.",
+      "nfev": 70,
+      "fun": -3733.4282229631367,
+      "maxcv": 0.0
+    }
+  ],
+  "('catol=0.2', 'depth=4')": [
+    {
+      "x": "[3.19002264 8.13247977 8.07306714 3.15949678 8.10750361 3.09773698\n 3.1543423  8.16791006]",
+      "status": 1,
+      "success": "True",
+      "message": "Optimization terminated successfully.",
+      "nfev": 78,
+      "fun": -883.1644763548095,
+      "maxcv": 0.0
+    }
+  ],
+  "('catol=0.2', 'depth=5')": [
+    {
+      "x": "[3.43510709 2.92842132 3.08143608 3.14868845 2.95617775 3.14937636\n 3.20039496 3.10043431 8.12836294 8.12911264]",
+      "status": 1,
+      "success": "True",
+      "message": "Optimization terminated successfully.",
+      "nfev": 112,
+      "fun": -13815.020142485751,
+      "maxcv": 0.0
+    }
+  ],
+  "('catol=0.2', 'depth=6')": [
+    {
+      "x": "[8.19395297 8.16085144 3.04452366 3.04188322 2.77104733 3.10179387\n 3.1661963  3.08028272 8.1305922  8.19103196 3.19129434 3.18848238]",
+      "status": 1,
+      "success": "True",
+      "message": "Optimization terminated successfully.",
+      "nfev": 129,
+      "fun": -9293.330599645624,
+      "maxcv": 0.0
+    }
+  ],
+  "('catol=0.2', 'depth=7')": [
+    {
+      "x": "[3.19019408 3.13309284 3.07324082 3.16029159 3.10711043 8.09824246\n 3.15399683 3.16771109 3.11960735 3.1297144  3.12413387 3.14702394\n 3.11575338 8.17565998]",
+      "status": 1,
+      "success": "True",
+      "message": "Optimization terminated successfully.",
+      "nfev": 138,
+      "fun": -5977.190529792358,
+      "maxcv": 0.0
+    }
+  ],
+  "('catol=0.2', 'depth=8')": [
+    {
+      "x": "[8.10533999 8.1102953  3.12907666 8.13604951 8.09283729 3.12045963\n 3.0948536  3.01188969 3.18067147 3.10711527 3.15999546 3.15806326\n 3.14423583 3.18002752 3.1744834  3.1343162 ]",
+      "status": 1,
+      "success": "True",
+      "message": "Optimization terminated successfully.",
+      "nfev": 165,
+      "fun": -5663.943002191202,
+      "maxcv": 0.0
+    }
+  ],
+  "('catol=2', 'depth=0')": [
+    {
+      "x": "[]",
+      "status": 1,
+      "success": "True",
+      "message": "Optimization terminated successfully.",
+      "nfev": 1,
+      "fun": -127.88554966632205,
+      "maxcv": 0.0
+    }
+  ],
+  "('catol=2', 'depth=1')": [
+    {
+      "x": "[10.4079251   1.97631187]",
+      "status": 1,
+      "success": "True",
+      "message": "Optimization terminated successfully.",
+      "nfev": 30,
+      "fun": 663.7665899277351,
+      "maxcv": 0.0
+    }
+  ],
+  "('catol=2', 'depth=2')": [
+    {
+      "x": "[8.17240978 3.13207066 8.08033139 2.52743196]",
+      "status": 1,
+      "success": "True",
+      "message": "Optimization terminated successfully.",
+      "nfev": 50,
+      "fun": 3475.6566248113113,
+      "maxcv": 0.0
+    }
+  ],
+  "('catol=2', 'depth=3')": [
+    {
+      "x": "[5.59749856 8.16184291 2.95330214 8.45512955 2.55371787 2.88533537]",
+      "status": 1,
+      "success": "True",
+      "message": "Optimization terminated successfully.",
+      "nfev": 63,
+      "fun": -400.51692700596385,
+      "maxcv": 0.0
+    }
+  ],
+  "('catol=2', 'depth=4')": [
+    {
+      "x": "[3.20386575 8.00168169 8.32746185 3.15245965 7.90445848 3.03852051\n 3.13913183 8.17000609]",
+      "status": 1,
+      "success": "True",
+      "message": "Optimization terminated successfully.",
+      "nfev": 98,
+      "fun": 1541.2643869663716,
+      "maxcv": 0.0
+    }
+  ],
+  "('catol=2', 'depth=5')": [
+    {
+      "x": "[3.18995034 3.13234308 3.07321403 3.15957508 3.10752638 3.0976095\n 3.15428997 3.16795685 8.11892586 8.12892907]",
+      "status": 1,
+      "success": "True",
+      "message": "Optimization terminated successfully.",
+      "nfev": 95,
+      "fun": -8791.986267291062,
+      "maxcv": 0.0
+    }
+  ],
+  "('catol=2', 'depth=6')": [
+    {
+      "x": "[8.21120272 8.17870767 3.17392397 3.10383516 3.15195217 3.37027772\n 2.58946865 3.1635366  2.5109299  3.15545872 3.15289802 3.17784145]",
+      "status": 1,
+      "success": "True",
+      "message": "Optimization terminated successfully.",
+      "nfev": 121,
+      "fun": -7568.4258144091855,
+      "maxcv": 0.0
+    }
+  ],
+  "('catol=2', 'depth=7')": [
+    {
+      "x": "[3.19000556 3.1324775  3.07328928 3.15938394 3.10737155 8.70537092\n 3.30076955 3.16785503 3.11893814 3.12885235 3.12296493 3.14743615\n 3.11459988 3.17619381]",
+      "status": 1,
+      "success": "True",
+      "message": "Optimization terminated successfully.",
+      "nfev": 129,
+      "fun": 8487.089357980749,
+      "maxcv": 0.0
+    }
+  ],
+  "('catol=2', 'depth=8')": [
+    {
+      "x": "[8.10499435 8.10386802 3.12131632 8.11935361 8.16862589 3.16116839\n 3.13960563 3.08226141 3.1490752  3.10108437 3.12546716 3.12066497\n 3.16926929 3.18463705 3.17607725 2.986781  ]",
+      "status": 1,
+      "success": "True",
+      "message": "Optimization terminated successfully.",
+      "nfev": 151,
+      "fun": -8314.256608258338,
+      "maxcv": 0.0
+    }
+  ]
+}

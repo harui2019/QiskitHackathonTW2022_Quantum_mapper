@@ -1,0 +1,318 @@
+{
+  "noTags": [],
+  "('catol=0.0002', 'depth=0')": [
+    {
+      "allShots": 65536,
+      "available": 28,
+      "ratio": 0.00042724609375
+    }
+  ],
+  "('catol=0.0002', 'depth=1')": [
+    {
+      "allShots": 65536,
+      "available": 4,
+      "ratio": 6.103515625e-05
+    }
+  ],
+  "('catol=0.0002', 'depth=2')": [
+    {
+      "allShots": 65536,
+      "available": 38,
+      "ratio": 0.000579833984375
+    }
+  ],
+  "('catol=0.0002', 'depth=3')": [
+    {
+      "allShots": 65536,
+      "available": 29,
+      "ratio": 0.0004425048828125
+    }
+  ],
+  "('catol=0.0002', 'depth=4')": [
+    {
+      "allShots": 65536,
+      "available": 21,
+      "ratio": 0.0003204345703125
+    }
+  ],
+  "('catol=0.0002', 'depth=5')": [
+    {
+      "allShots": 65536,
+      "available": 21,
+      "ratio": 0.0003204345703125
+    }
+  ],
+  "('catol=0.0002', 'depth=6')": [
+    {
+      "allShots": 65536,
+      "available": 123,
+      "ratio": 0.0018768310546875
+    }
+  ],
+  "('catol=0.0002', 'depth=7')": [
+    {
+      "allShots": 65536,
+      "available": 34,
+      "ratio": 0.000518798828125
+    }
+  ],
+  "('catol=0.0002', 'depth=8')": [
+    {
+      "allShots": 65536,
+      "available": 5,
+      "ratio": 7.62939453125e-05
+    }
+  ],
+  "('catol=0.002', 'depth=0')": [
+    {
+      "allShots": 65536,
+      "available": 28,
+      "ratio": 0.00042724609375
+    }
+  ],
+  "('catol=0.002', 'depth=1')": [
+    {
+      "allShots": 65536,
+      "available": 51,
+      "ratio": 0.0007781982421875
+    }
+  ],
+  "('catol=0.002', 'depth=2')": [
+    {
+      "allShots": 65536,
+      "available": 8,
+      "ratio": 0.0001220703125
+    }
+  ],
+  "('catol=0.002', 'depth=3')": [
+    {
+      "allShots": 65536,
+      "available": 9,
+      "ratio": 0.0001373291015625
+    }
+  ],
+  "('catol=0.002', 'depth=4')": [
+    {
+      "allShots": 65536,
+      "available": 14,
+      "ratio": 0.000213623046875
+    }
+  ],
+  "('catol=0.002', 'depth=5')": [
+    {
+      "allShots": 65536,
+      "available": 26,
+      "ratio": 0.000396728515625
+    }
+  ],
+  "('catol=0.002', 'depth=6')": [
+    {
+      "allShots": 65536,
+      "available": 17,
+      "ratio": 0.0002593994140625
+    }
+  ],
+  "('catol=0.002', 'depth=7')": [
+    {
+      "allShots": 65536,
+      "available": 32,
+      "ratio": 0.00048828125
+    }
+  ],
+  "('catol=0.002', 'depth=8')": [
+    {
+      "allShots": 65536,
+      "available": 11,
+      "ratio": 0.0001678466796875
+    }
+  ],
+  "('catol=0.02', 'depth=0')": [
+    {
+      "allShots": 65536,
+      "available": 22,
+      "ratio": 0.000335693359375
+    }
+  ],
+  "('catol=0.02', 'depth=1')": [
+    {
+      "allShots": 65536,
+      "available": 5,
+      "ratio": 7.62939453125e-05
+    }
+  ],
+  "('catol=0.02', 'depth=2')": [
+    {
+      "allShots": 65536,
+      "available": 29,
+      "ratio": 0.0004425048828125
+    }
+  ],
+  "('catol=0.02', 'depth=3')": [
+    {
+      "allShots": 65536,
+      "available": 32,
+      "ratio": 0.00048828125
+    }
+  ],
+  "('catol=0.02', 'depth=4')": [
+    {
+      "allShots": 65536,
+      "available": 21,
+      "ratio": 0.0003204345703125
+    }
+  ],
+  "('catol=0.02', 'depth=5')": [
+    {
+      "allShots": 65536,
+      "available": 28,
+      "ratio": 0.00042724609375
+    }
+  ],
+  "('catol=0.02', 'depth=6')": [
+    {
+      "allShots": 65536,
+      "available": 49,
+      "ratio": 0.0007476806640625
+    }
+  ],
+  "('catol=0.02', 'depth=7')": [
+    {
+      "allShots": 65536,
+      "available": 19,
+      "ratio": 0.0002899169921875
+    }
+  ],
+  "('catol=0.02', 'depth=8')": [
+    {
+      "allShots": 65536,
+      "available": 26,
+      "ratio": 0.000396728515625
+    }
+  ],
+  "('catol=0.2', 'depth=0')": [
+    {
+      "allShots": 65536,
+      "available": 29,
+      "ratio": 0.0004425048828125
+    }
+  ],
+  "('catol=0.2', 'depth=1')": [
+    {
+      "allShots": 65536,
+      "available": 10,
+      "ratio": 0.000152587890625
+    }
+  ],
+  "('catol=0.2', 'depth=2')": [
+    {
+      "allShots": 65536,
+      "available": 21,
+      "ratio": 0.0003204345703125
+    }
+  ],
+  "('catol=0.2', 'depth=3')": [
+    {
+      "allShots": 65536,
+      "available": 56,
+      "ratio": 0.0008544921875
+    }
+  ],
+  "('catol=0.2', 'depth=4')": [
+    {
+      "allShots": 65536,
+      "available": 57,
+      "ratio": 0.0008697509765625
+    }
+  ],
+  "('catol=0.2', 'depth=5')": [
+    {
+      "allShots": 65536,
+      "available": 52,
+      "ratio": 0.00079345703125
+    }
+  ],
+  "('catol=0.2', 'depth=6')": [
+    {
+      "allShots": 65536,
+      "available": 10,
+      "ratio": 0.000152587890625
+    }
+  ],
+  "('catol=0.2', 'depth=7')": [
+    {
+      "allShots": 65536,
+      "available": 30,
+      "ratio": 0.000457763671875
+    }
+  ],
+  "('catol=0.2', 'depth=8')": [
+    {
+      "allShots": 65536,
+      "available": 20,
+      "ratio": 0.00030517578125
+    }
+  ],
+  "('catol=2', 'depth=0')": [
+    {
+      "allShots": 65536,
+      "available": 21,
+      "ratio": 0.0003204345703125
+    }
+  ],
+  "('catol=2', 'depth=1')": [
+    {
+      "allShots": 65536,
+      "available": 5,
+      "ratio": 7.62939453125e-05
+    }
+  ],
+  "('catol=2', 'depth=2')": [
+    {
+      "allShots": 65536,
+      "available": 40,
+      "ratio": 0.0006103515625
+    }
+  ],
+  "('catol=2', 'depth=3')": [
+    {
+      "allShots": 65536,
+      "available": 6,
+      "ratio": 9.1552734375e-05
+    }
+  ],
+  "('catol=2', 'depth=4')": [
+    {
+      "allShots": 65536,
+      "available": 10,
+      "ratio": 0.000152587890625
+    }
+  ],
+  "('catol=2', 'depth=5')": [
+    {
+      "allShots": 65536,
+      "available": 16,
+      "ratio": 0.000244140625
+    }
+  ],
+  "('catol=2', 'depth=6')": [
+    {
+      "allShots": 65536,
+      "available": 16,
+      "ratio": 0.000244140625
+    }
+  ],
+  "('catol=2', 'depth=7')": [
+    {
+      "allShots": 65536,
+      "available": 30,
+      "ratio": 0.000457763671875
+    }
+  ],
+  "('catol=2', 'depth=8')": [
+    {
+      "allShots": 65536,
+      "available": 14,
+      "ratio": 0.000213623046875
+    }
+  ]
+}
