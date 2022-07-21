@@ -10,23 +10,23 @@
   - We used a submodule [`mori`](https://github.com/harui2019/mori/tree/4bc94be2d448f2145e66b583c808fbbde0876ff1) for data exportation and a python files `backend.py` to access importing backends, all  made by `@harui2019` (the actually owner of this repo), one of group member.
   
 ## Where is experiments data?
-  The folloeing folders are our data.
-  - test.3nodes.002
+  The following folders are our data.
+  - `test.3nodes.002`
     - __!!! ATTENTION, the `catol` is not actually applied in this experiments, due to bugs when excutes, all `catol` are actually `0.02` !!!__
     
-  - test.4nodes.001
+  - `test.4nodes.001`
     - 4 cities by 16 qubits
     - penalty = 1000
     
-  - test.p=100.3nodes.001
+  - `test.p=100.3nodes.001`
     - 3 cities by 9 qubits
     - penalty = 100
     
-  - test.p=1000.3nodes.001
+  - `test.p=1000.3nodes.001`
     - 3 cities by 9 qubits
     - penalty = 1000
     
-  - test.p=10000.3nodes.001
+  - `test.p=10000.3nodes.001`
     - 3 cities by 9 qubits
     - penalty = 10000
     
