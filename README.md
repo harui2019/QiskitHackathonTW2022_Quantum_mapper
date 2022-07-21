@@ -29,5 +29,13 @@
   - test.p=10000.3nodes.001
     - 3 city by 9 qubits
     - penalty = 10000
+    
+## Group Member
+  Shao-Wei Ho (coding)
+  Huai-Chun Chang (coding) - `@harui2019`
+  Yu-Yuan Yang (presenter, visualization)
+  Chun-Tse Li (presenter, coding)
+  Yun-Yuan Wang (presenter, coding)
+ 
 
   
