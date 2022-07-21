@@ -35,7 +35,7 @@
   - 張淮竣, Huai-Chun Chang (coding) - `@harui2019` - james880818@gmail.com
   - 楊淯元, Yu-Yuan Yang (presenter, visualization) - `@yuyuan871111`
   - 李俊澤, Chun-Tse Li (presenter, coding)
-  - 王勻遠, Yun-Yuan Wang (presenter, coding)
+  - 王勻遠, Yun-Yuan Wang (presenter, coding) -  `@squirtle007` - pikachu1115pika@gmail.com
  
 
   
