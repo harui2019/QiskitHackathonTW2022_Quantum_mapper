@@ -1,0 +1,3 @@
+[submodule "mori"]
+	path = mori
+	url = https://github.com/harui2019/mori.git
