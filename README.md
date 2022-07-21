@@ -15,19 +15,19 @@
     !!! ATTENTION, the `catol` is not actually applied in this experiments, due to bugs when excute, all `catol` are actually `0.02` !!!
     
   - test.4nodes.001
-    - 4 city by 16 qubits
+    - 4 cities by 16 qubits
     - penalty = 1000
     
   - test.p=100.3nodes.001
-    - 3 city by 9 qubits
+    - 3 cities by 9 qubits
     - penalty = 100
     
   - test.p=1000.3nodes.001
-    - 3 city by 9 qubits
+    - 3 cities by 9 qubits
     - penalty = 1000
     
   - test.p=10000.3nodes.001
-    - 3 city by 9 qubits
+    - 3 cities by 9 qubits
     - penalty = 10000
     
 ## Group Member
