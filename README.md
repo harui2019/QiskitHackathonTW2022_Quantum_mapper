@@ -30,7 +30,7 @@
     - 3 cities by 9 qubits
     - penalty = 10000
     
-## Group Member
+## Group Members
   - 何紹威, Shao-Wei Ho (coding)
   - 張淮竣, Huai-Chun Chang (coding) - `@harui2019` - james880818@gmail.com
   - 楊淯元, Yu-Yuan Yang (presenter, visualization) - `@yuyuan871111`
