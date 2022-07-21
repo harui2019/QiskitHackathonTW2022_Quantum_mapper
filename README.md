@@ -31,11 +31,11 @@
     - penalty = 10000
     
 ## Group Member
-  Shao-Wei Ho (coding)
-  Huai-Chun Chang (coding) - `@harui2019`
-  Yu-Yuan Yang (presenter, visualization)
-  Chun-Tse Li (presenter, coding)
-  Yun-Yuan Wang (presenter, coding)
+  - 何紹威, Shao-Wei Ho (coding)
+  - 張淮竣, Huai-Chun Chang (coding) - `@harui2019`
+  - 楊淯元, Yu-Yuan Yang (presenter, visualization) - `@adp871111`
+  - 李俊澤, Chun-Tse Li (presenter, coding)
+  - 王勻遠, Yun-Yuan Wang (presenter, coding)
  
 
   
